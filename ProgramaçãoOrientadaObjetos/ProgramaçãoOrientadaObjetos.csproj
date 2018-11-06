@@ -50,6 +50,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="02_Herança\" />
+    <Folder Include="03_Polimorfismo\" />
+    <Folder Include="04_Encapsulamento\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
