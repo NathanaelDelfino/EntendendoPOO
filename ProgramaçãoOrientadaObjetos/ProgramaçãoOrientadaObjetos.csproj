@@ -44,8 +44,11 @@
   <ItemGroup>
     <Compile Include="01_Abstração\Carro.cs" />
     <Compile Include="01_Abstração\Veiculo.cs" />
+    <Compile Include="02_Herança\Baleia.cs" />
     <Compile Include="02_Herança\Elefante.cs" />
     <Compile Include="02_Herança\Mamifero.cs" />
+    <Compile Include="03_Polimorfismo\Overloading\CarroPopular.cs" />
+    <Compile Include="03_Polimorfismo\Subtyping\CarroEsportivo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -53,7 +56,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="03_Polimorfismo\" />
     <Folder Include="04_Encapsulamento\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -8,7 +8,8 @@ namespace ProgramaçãoOrientadaObjeto._02_Herança
 {
     class Baleia : Mamifero
     {
-
+        //Aqui temos um exemplo da classe Baleia que assim como a classe Elefante também herda a classe Mamifero
+        //A classe Elefante herda tudo que a classe mamifero possuí, porém também possuí atributos e metodos próprios;
         public int TempoSemRespirar { get; set; }
 
         public Baleia()

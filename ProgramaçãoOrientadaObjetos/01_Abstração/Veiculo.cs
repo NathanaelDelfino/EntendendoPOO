@@ -15,17 +15,24 @@ namespace ProgramaçãoOrientadaObjeto._01_Abstração
     //Temos a classe abstrata veículo, na qual irá conter os dados base para criar qualquer veículo
     public abstract class Veiculo
     {
-
         //Propriedades que todos os veículos irão ter.
         public int NumemeroRodas { get; set; }
         public int Velocidade { get; set; }
         public string NumeroSerie { get; set; }
         public int AnoFabricacao { get; set; }
         public int Combustivel { get; set; }
+        public string Marca { get; set; }
+
+        public Veiculo(int numeroRodas, string marca)
+        {
+            this.NumemeroRodas = numeroRodas;
+            this.Marca = marca;
+        }
 
         //Metodos abstratos terão que terão de ser implementados pela classes quer herdarem da classe veículo
         public abstract void Ligar();
         public abstract void Desligar();
+        public abstract void ChecarCombustivel();
 
         //Metodos que todos os veículos irão ter.
         public int TotalDeCombustive()
