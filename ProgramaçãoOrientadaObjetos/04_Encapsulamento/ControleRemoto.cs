@@ -8,7 +8,7 @@ namespace ProgramaçãoOrientadaObjeto._04_Encapsulamento
 {
     class ControleRemoto
     {
-        //Encapsulamento - É uma forma de ocultar os membros de uma classe, onde você permite vizibilidade 
+        //Encapsulamento - É uma forma de ocultar os membros de uma classe, onde você permite visibilidade 
         //somente do que você deseja, para a classe ou objeto que esteja utilizando.
         public int CanalTV { get; private set; }
         public int Volume { get; private set; }
