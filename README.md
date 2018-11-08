@@ -10,21 +10,24 @@ Segundo: feedbacks são sempre bem vindos
 Nesse projeto vou abordar os principais pilares da POO.
 
 ### Abstração
-...
+```
 * Operação intelectual em que um objeto de reflexão é isolado de fatores que comumente lhe estão relacionados na realidade. (dicionario google)
-...
+```
 
 ### Herança
+```
 * Ação de herdar, de adquirir por sucessão. (dicionario google)
-...
-
+```
 ### Polimorfismo
+```
 * Qualidade ou estado de ser capaz de assumir diferentes formas. (dicionario google)
-...
+```
 
 ### Encapsulamento
+```
 * Encapsulamento vem de encapsular, que em programação orientada a objetos significa juntar o programa em partes, o mais isoladas possível. A ideia é tornar o software mais flexível, fácil de modificar e de criar novas implementações (Wikipédia)
-...
+```
+
 ## Fontes
 [Wikipédia](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos) - Orientação a objetos
 
