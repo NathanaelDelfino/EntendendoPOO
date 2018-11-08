@@ -2,8 +2,9 @@
 
 ## Introdução
 Primeiramente : também estou aprendendo e aprimorando meus conhecimentos de POO(Programação Orientada a Obejtos). "Pré supondo que você também esteja. hehehe"
+
 Segundo: feedbacks são sempre bem vindos
-...
+
 
 ## Programação Orientada a Obejtos (POO)
 É um modelo de análise, projeto e programação de software baseado na composição e interação entre diversas unidades chamadas de 'Objetos'. "Wikipédia"
