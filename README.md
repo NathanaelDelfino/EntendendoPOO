@@ -10,6 +10,7 @@ Segundo: feedbacks são sempre bem vindos
 Nesse projeto vou abordar os principais pilares da POO.
 
 ### Abstração
+...
 * Operação intelectual em que um objeto de reflexão é isolado de fatores que comumente lhe estão relacionados na realidade. (dicionario google)
 ...
 
