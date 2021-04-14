@@ -7,7 +7,7 @@ Alan Kay, é conhecido como um dos principais precursores da programação orien
 ## O que é ? 
 É uma maneira de escrita de código onde você aproxima o mundo real do mundo digital, onde você ao identificar um *objeto*, você primeiro define "O que é o objeto?", "Quais são as informações que aquele objeto me transmite?", "O que ele faz?", ao responder essas perguntas você, já terá um ideia de como descrever o objeto em seu código.
 
-##Como descrever um objeto em meu código? 
+## Como descrever um objeto em meu código? 
 Você irá descrever o seu objeto em uma classe, a classe irá possuir um nome, atributos e métodos.  
 
 ## O que é uma classe?
