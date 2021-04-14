@@ -1,6 +1,6 @@
 # Entendendo Programação Orientada a Objeto
 
-##Quem criou?
+## Quem criou?
 
 Alan Kay, é conhecido como um dos principais precursores da programação orientada a objetos, com a criação da linguagem de programação Smalltalk, Mas vale salientar que um pouco antes do lançamento da linguagem Smalltalk algumas noções de POO já eram empregadas na Linguagem Simular 67, criada por Ole-Johan Dahl e Kristen Nygaard em 1967.
 
